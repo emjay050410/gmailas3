@@ -1,0 +1,1 @@
+This library connects to google's SMTP servers and allows email to be sent through Gmail from your AIR applications.
